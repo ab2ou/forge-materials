@@ -1,0 +1,11 @@
+# Optional environment for "AI Hybrid Parts" (separate from Blender's Python).
+# Install PyTorch first, matching your GPU: https://pytorch.org/get-started/locally/
+# Tested with Python 3.10, torch 2.14.1 + CUDA 12.6 on a 4 GB GTX 1050.
+torch
+torchvision
+sam2==1.1.0
+OpenEXR>=3.2
+numpy
+scipy
+networkx
+pillow

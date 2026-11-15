@@ -1,0 +1,17 @@
+schema_version = "1.0.0"
+
+id = "forge_materials"
+version = "0.9.1"
+name = "Forge Materials"
+tagline = "Material library, smart regions, weathering, game-ready baking"
+maintainer = "Forge Materials"
+type = "add-on"
+
+blender_version_min = "4.2.0"
+
+license = ["SPDX:GPL-3.0-or-later"]
+
+tags = ["Material", "Bake", "Game Engine", "Mesh"]
+
+[permissions]
+files = "Reads your material library, writes baked maps and temp files"

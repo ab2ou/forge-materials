@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.zip
+.DS_Store
+Thumbs.db
+# AI environment and model checkpoints are never committed
+fm_ai/
+*.pt
+*.pth
