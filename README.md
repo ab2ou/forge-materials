@@ -27,6 +27,8 @@ are recognised as they are.
 The panel is in *3D Viewport > Sidebar (N) > Forge Materials*. The dial opens
 with **Ctrl+Alt+D**.
 
+![The dial](docs/images/dial.jpg)
+
 ## Features
 
 ### Materials
@@ -43,6 +45,8 @@ with **Ctrl+Alt+D**.
   edges, dirt, rust, weather, detail. Type to search; right-click a material to
   favourite it; **Save** stores a complete look.
 
+![Weathering layers](docs/images/weathering.jpg)
+
 ### Smart Regions
 Splits a mesh into material regions without touching the mesh.
 
@@ -54,6 +58,8 @@ Splits a mesh into material regions without touching the mesh.
   mirror selection, select similar pieces, lasso, merge, split, rename, undo.
   Shortcuts are shown in the viewport.
 - **Suggest Materials** proposes a material per region.
+
+![Smart Regions on a sword](docs/images/smart_regions.jpg)
 
 ### AI Hybrid Parts (optional, experimental)
 Renders every part on its own and lets SAM 2 propose sub-parts; borders still
