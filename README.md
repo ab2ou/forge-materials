@@ -78,6 +78,9 @@ on a 4 GB GPU) and needs a separate Python environment (see below).
 
 Measured on 11 test swords (3 generated, 8 real models):
 
+![A test sword and its reference regions](docs/images/test_set.jpg)
+
+
 - Auto Regions finds the large parts well (blade, guard, grip, pommel: 86-97%
   of the area on the right part for 8 of the 11 swords), but it does **not**
   separate small parts: gems, pearls, rings, spikes and ferrules end up inside
